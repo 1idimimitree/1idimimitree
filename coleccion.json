@@ -1,0 +1,6224 @@
+[
+  {
+    "tipo": "Juego",
+    "titulo": "Animal Crossing New Horizons",
+    "año": "2020",
+    "rating": 5,
+    "genero": [
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "9 de junio de 2020 → 6 de octubre de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: 100% | Horas jugadas: 888,89"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "balatro",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "Cartas/Juego de mesa",
+      "Estrategia",
+      "Indie"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10 de abril de 2025 → 18 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: ios | Estado: Jugado | Horas jugadas: 16,55"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Baldur's Gate 3",
+    "año": "2023",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Role-playing (RPG)",
+      "Tactical",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de abril de 2025 → 30 de abril de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Unico | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 19,58"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "BattleBlock Theater",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Plataformas",
+      "Puzzle"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de octubre de 2016 → 26 de octubre de 2016",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Bayonetta",
+    "año": "2008",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Shooter"
+    ],
+    "personaje_favorito": "Bayonetta",
+    "fecha_consumido": "1 de marzo de 2022 → 9 de marzo de 2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Sega | Plataforma: Nintendo Switch, PC (Windows) | Estado: Me lo Pase | Horas jugadas: 8,33 | Serie: Bayonetta"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Bayonetta 2",
+    "año": "2014",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10 de marzo de 2022 → 22 de marzo de 2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo, Sega | Plataforma: Nintendo Switch | Estado: 100% | Horas jugadas: 61,12 | Serie: Bayonetta"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Bayonetta 3",
+    "año": "2022",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de noviembre de 2023 → 29 de noviembre de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo, Sega | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 22,22 | Serie: Bayonetta"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Bayonetta Origins Cereza and the Lost Demon",
+    "año": "2022",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Puzzle"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo, Sega | Plataforma: Nintendo Switch | Estado: Sin Probar | Serie: Bayonetta"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "better than adventure",
+    "año": "2010",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Real Time Strategy (RTS)",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 2,49 | Serie: Minecraft"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Bikmin 269 DX - Director's Cut",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Pelea",
+      "Real Time Strategy (RTS)",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo, Unico | Plataforma: Nintendo GameCube | Estado: Jugado | Horas jugadas: 1,79 | Serie: Pikmin"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Blasphemous",
+    "año": "2020",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Indie",
+      "Plataformas",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 1,42"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Blasphemous II",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Indie",
+      "Plataformas",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de octubre de 2016 → 26 de octubre de 2016",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Sin Probar"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Bloodborne™",
+    "año": "2016",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Dark Souls/ Souls Like",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: FromSoftware | Plataforma: PlayStation | Estado: Jugado | Horas jugadas: 8,33 | Serie: Dark Souls/ Souls Like"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Celeste",
+    "año": "2018",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "9 de noviembre de 2021 → 24 de noviembre de 2021",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: Nintendo Switch, PC (Windows) | Estado: 100% | Horas jugadas: 55,56"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Clair Obscur: Expedition 33",
+    "año": "2025",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14 de mayo de 2025 → 11 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 89,69"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Counter-Strike 2",
+    "año": "2020",
+    "rating": 1,
+    "genero": [
+      "Shooter",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Valve | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 1,15"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Crash Bandicoot - The Wrath of Cortex",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: Nintendo GameCube | Estado: Sin Probar"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Cult of the Lamb",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Hack and slash/Beat 'em up",
+      "Indie",
+      "Role-playing (RPG)",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 4"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Cyberpunk 2077",
+    "año": "2021",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Cd Project Red | Plataforma: PC (Windows) | Estado: Jugado"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Dark Souls III",
+    "año": "2018",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10 de abril de 2025 → 21 de abril de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: FromSoftware | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 6,8 | Serie: Dark Souls/ Souls Like"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Dark Souls: Remastered",
+    "año": "2010",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: FromSoftware | Plataforma: PC (Windows) | Estado: Sin Probar | Serie: Dark Souls/ Souls Like"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Deepwoken",
+    "año": "2018",
+    "rating": 2,
+    "genero": [
+      "Arcade",
+      "Pelea",
+      "Real Time Strategy (RTS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Roblox | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,31 | Serie: Roblox"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "devil may cry 5",
+    "año": "2020",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,01"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Donkey Kong Country: Tropical Freeze",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 0,07"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "ELDEN RING",
+    "año": "2023",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de octubre de 2024 → 20 de noviembre de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: FromSoftware | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 112,05 | Serie: Dark Souls/ Souls Like"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Fall Guys",
+    "año": "2020",
+    "rating": 2,
+    "genero": [
+      "Carreras",
+      "Deporte",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Epic Games | Plataforma: PC (Windows) | Estado: Sin Probar"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Fire Emblem Three Houses",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Role-playing (RPG)",
+      "Tactical",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 4,05"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Fortnite",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Role-playing (RPG)",
+      "Shooter",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de diciembre de 2019 → 14 de octubre de 2020",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Epic Games | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,96"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Game Boy – Nintendo Switch Online",
+    "año": "2024",
+    "rating": 1,
+    "genero": [
+      "Otro"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Serie: Nintendo Online"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Game Boy Advance – Nintendo Switch Online",
+    "año": "2023",
+    "rating": 1,
+    "genero": [
+      "Otro"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Serie: Nintendo Online"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Genshin Impact",
+    "año": "2020",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de octubre de 2024 → 3 de octubre de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 8,77 | Serie: Nintendo Online"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Geometry Dash",
+    "año": "2010",
+    "rating": 2,
+    "genero": [
+      "Arcade",
+      "Indie",
+      "Musica",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de octubre de 2016 → 22 de diciembre de 2016",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,09"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Hollow Knight: Silksong",
+    "año": "2025",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "5 de septiembre de 2025 → 24 de septiembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Team Cherry | Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Hollow Knight"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "MARIO + RABBIDS SPARKS OF HOPE",
+    "año": "2019",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Tactical",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de junio de 2025 → 30 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 14,86 | Serie: Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Mario Kart 8 Deluxe",
+    "año": "2014",
+    "rating": 3,
+    "genero": [
+      "Arcade",
+      "Carreras"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de abril de 2018 → 5 de septiembre de 2018",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 55,89 | Serie: Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Marvel Rivals",
+    "año": "2025",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Pelea",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,16"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Mario Kart Wii",
+    "año": "2009",
+    "rating": 2,
+    "genero": [
+      "Carreras"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de octubre de 2017 → 6 de diciembre de 2017",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: Sin Probar | Serie: Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Metaphor: ReFantazio",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "23 de mayo de 2025 → 10 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus, Sega | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 66,04 | Serie: Persona, Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Metroid Prime 2 - Echoes",
+    "año": "2014",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "MetroidVania",
+      "Plataformas",
+      "Puzzle",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: Sin Probar | Horas jugadas: 0,01 | Serie: Metroid"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "METROID PRIME 4: BEYOND",
+    "año": "2025",
+    "rating": null,
+    "genero": [
+      "Aventura",
+      "MetroidVania",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Sin Probar | Serie: Metroid"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Metroid Prime REMASTERED",
+    "año": "2023",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "MetroidVania",
+      "Plataformas",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de enero de 2025 → 8 de enero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 27,78 | Serie: Metroid"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Minecraft koko 1.21",
+    "año": "2010",
+    "rating": 5,
+    "genero": [
+      "Pelea",
+      "Simulador",
+      "Survival"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de abril de 2025 → 14 de mayo de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Microsoft | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 80,82 | Serie: Minecraft"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Minecraft: Java Edition",
+    "año": "2010",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Microsoft | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 0,15 | Serie: Minecraft"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "NieR Automata The End of YoRHa Edition",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "5 de marzo de 2025 → 31 de marzo de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Sega | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 14,18"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Nintendo 64 – Nintendo Switch Online",
+    "año": "2023",
+    "rating": 1,
+    "genero": [
+      "Otro"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Sin Probar | Serie: Zelda"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "nine sols",
+    "año": "2024",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10 de diciembre de 2024 → 9 de enero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 14,85"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Nintendo Entertainment System - Nintendo Switch Online",
+    "año": "2019",
+    "rating": 3,
+    "genero": [
+      "Otro"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de enero de 2019 → 1 de febrero de 2019",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 0,02"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "outer wilds",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Puzzle",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "12 de febrero de 2025 → 28 de febrero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 9,44"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Persona 3 Reload",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": "Junpei",
+    "fecha_consumido": "1 de junio de 2025 → 13 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 29,44 | Serie: Persona, Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Persona 3 Portable",
+    "año": "2010",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Novela Visual",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": "Futaba, Junpei",
+    "fecha_consumido": "27 de febrero de 2025 → 13 de marzo de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 19,44 | Serie: Persona, Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Persona 4 Golden",
+    "año": "2022",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Novela Visual",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": "Kanji, Chie",
+    "fecha_consumido": "7 de febrero de 2025 → 19 de febrero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus, Sega | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 71,53 | Serie: Persona, Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Persona 5 Royal",
+    "año": "2020",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": "Futaba, Riujin",
+    "fecha_consumido": "5 de febrero de 2025 → 19 de febrero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus, Sega | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 111,16 | Serie: Persona, Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Persona 5 Strikers",
+    "año": "2022",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": "Futaba",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus, Sega | Plataforma: PC (Windows) | Estado: Sin Probar | Serie: Persona"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Pikmin",
+    "año": "2005",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Real Time Strategy (RTS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de junio de 2017 → 12 de julio de 2017",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: 100% | Horas jugadas: 11,96 | Serie: Pikmin"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Pikmin 2",
+    "año": "2008",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Real Time Strategy (RTS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "9 de marzo de 2022 → 31 de marzo de 2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: 100% | Serie: Pikmin"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Pikmin 4",
+    "año": "2023",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Real Time Strategy (RTS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de octubre de 2023 → 30 de noviembre de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: 100% | Horas jugadas: 26,47 | Serie: Pikmin"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "PIZZA TOWER",
+    "año": "2024",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Sin Probar"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Pokémon Reborn",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,16 | Serie: Pokemon"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Plants vs. Zombies",
+    "año": "2008",
+    "rating": 2,
+    "genero": [
+      "Estrategia",
+      "Puzzle",
+      "Real Time Strategy (RTS)",
+      "Simulador",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Sin Probar | Horas jugadas: 0,01"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Pokémon Rejuvenation",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: PC (Windows) | Estado: Sin Probar | Serie: Pokemon"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Pokemon Scarlet",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 8,41 | Serie: Pokemon"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Prision Life",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "Multiplayer",
+      "Shooter",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de enero de 2020 → 30 de junio de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Roblox | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 0,84 | Serie: Roblox"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Rain World",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Plataformas",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Roblox | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 2,76 | Serie: Pokemon"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Roblox",
+    "año": "2020",
+    "rating": 2,
+    "genero": [
+      "Plataformas",
+      "Role-playing (RPG)",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Roblox | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,23 | Serie: Roblox"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Sekiro: Shadows Die Twice",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Dark Souls/ Souls Like"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de diciembre de 2024 → 10 de enero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: FromSoftware | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 45,64 | Serie: Dark Souls/ Souls Like"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "SHIN MEGAMI TENSEI V Vengeance",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de junio de 2025 → 18 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus, Sega | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 53,47 | Serie: Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Shin Megami Tensei - Nocturne",
+    "año": "2014",
+    "rating": 5,
+    "genero": [
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de septiembre de 2025 → 10 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Atlus, Sega | Plataforma: Sony PlayStation 2 | Estado: Me lo Pase | Serie: Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Silent Hill 2",
+    "año": "2010",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Puzzle"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: Sony PlayStation 2 | Estado: Jugado | Horas jugadas: 0,33"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Sonic Adventure 2 - Battle",
+    "año": "2010",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Sega | Plataforma: Nintendo GameCube | Estado: Sin Probar | Serie: Sonic"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Sonic Generations",
+    "año": "2018",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de diciembre de 2023 → 7 de enero de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Sega | Plataforma: PC (Windows) | Estado: 100% | Serie: Sonic"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Sonic Origins",
+    "año": "2024",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Sega | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,11 | Serie: Sonic"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Sonic Robo Blast 2",
+    "año": "2015",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Sega | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,09 | Serie: Sonic"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Sonic Triple Trouble 16-Bit",
+    "año": "2015",
+    "rating": 1,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Sega | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,09 | Serie: Sonic"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Splatoon 3",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Plataformas",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Horas jugadas: 2,74"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Stardew Valley",
+    "año": "2015",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Indie",
+      "Role-playing (RPG)",
+      "Simulador"
+    ],
+    "personaje_favorito": "Harvey, Alex, Penny, Shane",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 1,67"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Stumble Guys",
+    "año": "2020",
+    "rating": 1,
+    "genero": [
+      "Carreras",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Epic Games | Plataforma: PC (Windows) | Estado: Jugado"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario 127",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: PC (Windows) | Estado: Sin Probar | Horas jugadas: 0,11 | Serie: Mario Main, Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario 63",
+    "año": "2014",
+    "rating": 5,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "28 de abril de 2016 → 21 de junio de 2016",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,65 | Serie: Fangame, Mario Main, Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario Bros. Wonder",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de febrero de 2025 → 3 de febrero de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Serie: Mario Main"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario Bros. X",
+    "año": "2012",
+    "rating": 1,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: PC (Windows) | Estado: Sin Probar | Serie: Fangame, Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "super mario builder 64",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "Indie",
+      "Plataformas",
+      "Puzzle"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 0,09 | Serie: Fangame, Mario Spinoff"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario Eclipse v1.0.4",
+    "año": "2025",
+    "rating": 2,
+    "genero": [
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan, Nintendo | Plataforma: Nintendo GameCube | Estado: Sin Probar | Horas jugadas: 0,09 | Serie: Fangame, Mario Main"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "super mario galaxy",
+    "año": "2015",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario Galaxy 2",
+    "año": "2009",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de junio de 2016 → 28 de junio de 2016",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: Jugado | Horas jugadas: 0,07 | Serie: Mario Main"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Mario Odyssey",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "15 de abril de 2018 → 23 de mayo de 2018",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 25 | Serie: Mario Main"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Meat Boy",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Indie",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de noviembre de 2024 → 5 de noviembre de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Edmun | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 1,94"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Nintendo Entertainment System - Nintendo Switch Online",
+    "año": "2018",
+    "rating": 2,
+    "genero": [
+      "Otro"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de octubre de 2020 → 18 de noviembre de 2020",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado | Serie: Nintendo Online"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Smash Bros. Melee",
+    "año": "2008",
+    "rating": 2,
+    "genero": [
+      "Pelea",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo GameCube | Estado: Sin Probar | Serie: Bayonetta, Mario Main, Metroid, Persona, Pikmin, Smash Bros, Zelda"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Super Smash Bros. Ultimate",
+    "año": "2019",
+    "rating": 5,
+    "genero": [
+      "Accion",
+      "Multiplayer",
+      "Pelea"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de abril de 2020 → 18 de noviembre de 2021",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: 100% | Horas jugadas: 222,22 | Serie: Smash Bros"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Terraria",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Indie",
+      "Plataformas",
+      "Role-playing (RPG)",
+      "Simulador"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indies | Plataforma: PC (Windows) | Estado: Jugado | Horas jugadas: 1,95"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "The Binding of Isaac: Repentance",
+    "año": "2015",
+    "rating": 4,
+    "genero": [
+      "Arcade",
+      "Dificil",
+      "Indie",
+      "Role-playing (RPG)",
+      "Shooter"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14 de septiembre de 2023 → 30 de noviembre de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Edmun, Unico | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 7,91"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "THE FINALS",
+    "año": "2024",
+    "rating": null,
+    "genero": [
+      "Pelea",
+      "Plataformas",
+      "Shooter",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Sin Probar"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "The Legend of Zelda: Ocarina of Time",
+    "año": "1993",
+    "rating": null,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: PC (Windows) | Estado: Sin Probar | Horas jugadas: 8,14 | Serie: Zelda"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "The Legend of Zelda: Skyward Sword HD",
+    "año": "2023",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Jugado"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "The Legend of Zelda: Tears of the Kingdom",
+    "año": "2023",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de julio de 2023 → 25 de julio de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 55,56 | Serie: Nintendo Online"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "The Witcher 3: Wild Hunt",
+    "año": "2014",
+    "rating": 1,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Cd Project Red | Plataforma: Nintendo Switch, PC (Windows) | Estado: Sin Probar"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Xenoblade Chronicles 3",
+    "año": "2023",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de junio de 2025 → 17 de junio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 50,18 | Serie: Xenoblade"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Xenoblade Chronicles Definitive Edition",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de julio de 2025 → 17 de julio de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: Me lo Pase | Horas jugadas: 43,73 | Serie: Xenoblade"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Hollow Knight",
+    "año": "2018",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Dificil",
+      "Indie",
+      "MetroidVania",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de octubre de 2019 → 21 de noviembre de 2019",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Team Cherry | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 97,22 | Serie: Hollow Knight"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Undertale",
+    "año": "2016",
+    "rating": 5,
+    "genero": [
+      "Indie",
+      "Musica",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de octubre de 2022 → 3 de noviembre de 2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 10,56 | Serie: Undertale"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Deltarune: Capter 1",
+    "año": "2020",
+    "rating": 4,
+    "genero": [
+      "Indie",
+      "Musica",
+      "Turn-based strategy (TBS)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de diciembre de 2019 → 15 de diciembre de 2019",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan | Plataforma: Nintendo Switch | Estado: 100% | Horas jugadas: 10,56 | Serie: Undertale"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Guacamelee",
+    "año": "2016",
+    "rating": 4,
+    "genero": [
+      "Accion",
+      "Arcade",
+      "Aventura",
+      "MetroidVania",
+      "Multiplayer",
+      "Pelea",
+      "Plataformas"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de julio de 2017 → 13 de septiembre de 2017",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan | Plataforma: PC (Windows) | Estado: 100% | Horas jugadas: 30,56 | Serie: Guacamelee"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Guacamelee 2",
+    "año": "2020",
+    "rating": 5,
+    "genero": [
+      "Accion",
+      "Arcade",
+      "Aventura",
+      "Indie",
+      "MetroidVania",
+      "Multiplayer"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "18 de diciembre de 2019 → 2 de enero de 2020",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Indie/fan | Plataforma: Nintendo Switch, PC (Windows) | Estado: 100% | Horas jugadas: 58,33 | Serie: Guacamelee"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "The Leyend Of Zelda: Breath Of The Wild",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Simulador",
+      "Survival",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de abril de 2020 → 21 de mayo de 2020",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: Nintendo Switch | Estado: 100% | Horas jugadas: 138,89 | Serie: Zelda"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Hades",
+    "año": null,
+    "rating": null,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": "https://store.steampowered.com/app/1145360/Hades/",
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Freedom Planet",
+    "año": null,
+    "rating": null,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": "https://store.steampowered.com/app/248310/Freedom_Planet/",
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Ori and the Will of the Wisps",
+    "año": null,
+    "rating": null,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": "https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/",
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "año": "2022",
+    "rating": 5,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Hack and slash/Beat 'em up",
+      "Musica",
+      "Role-playing (RPG)",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de diciembre de 2025",
+    "url": "https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/",
+    "notas": null,
+    "detalles_extra": "Developer: Square Enix | Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Final Fantasy"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "FINAL FANTASY VII REBIRTH",
+    "año": "2025",
+    "rating": 5,
+    "genero": [
+      "Accion",
+      "Arcade",
+      "Dark Souls/ Souls Like",
+      "Hack and slash/Beat 'em up",
+      "Musica",
+      "Pelea",
+      "Real Time Strategy (RTS)",
+      "Tactical"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "18 de diciembre de 2025 → 23 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Square Enix | Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 36,11 | Serie: Final Fantasy"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Dispatxh",
+    "año": "2025",
+    "rating": 3,
+    "genero": [
+      "Novela Visual"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "23 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase | Horas jugadas: 5,56"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Lies of P",
+    "año": "2018",
+    "rating": 3,
+    "genero": [
+      "Dark Souls/ Souls Like",
+      "Dificil",
+      "MetroidVania"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "17 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Portal 2",
+    "año": "2011",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Estrategia",
+      "Puzzle"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Valve | Plataforma: PC (Windows) | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "finla f",
+    "año": null,
+    "rating": null,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "God of war: Raknarok",
+    "año": "2025",
+    "rating": 5,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Hack and slash/Beat 'em up"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Final Fantasy IX",
+    "año": null,
+    "rating": 4,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "21 de marzo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Square Enix | Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Final Fantasy"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Metroid Dread",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "MetroidVania"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de marzo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Nintendo | Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Metroid"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "God of war",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Hack and slash/Beat 'em up"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de marzo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Developer: Sony | Plataforma: PC (Windows) | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Oneshot",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de abril de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Mio: memories in orbit",
+    "año": "2025",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "MetroidVania"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "28 de abril de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Blashpemous",
+    "año": null,
+    "rating": 3,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de mayo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Jugado"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Blashpemous 2",
+    "año": null,
+    "rating": 4,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de mayo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Jugado"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Preacher's Daughter",
+    "año": "2022",
+    "rating": 5,
+    "genero": [
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ethel Cain | Cancion favorita: Sun Bleached Flies | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Willoughby Tucker  I'll Always Love You",
+    "año": "2025",
+    "rating": 3,
+    "genero": [
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ethel Cain | Cancion favorita: Nettles | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Back to Black",
+    "año": "2006",
+    "rating": 5,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Amy Winehouse | Cancion favorita: He can only hold her | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Miseducation of Lauryn Hill",
+    "año": "1998",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lauryn Hill | Cancion favorita: Tell him | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Born to Die",
+    "año": "2012",
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Videogames | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Paradise",
+    "año": "2012",
+    "rating": 3,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Gods And Monsters | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Ultraviolence",
+    "año": "2014",
+    "rating": 5,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Brooklyn baby | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Honeymoon",
+    "año": "2015",
+    "rating": 2,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Swan Song | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Norman Fucking Rockwell!",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Hapiness Is A Buttefly | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Lust for Life",
+    "año": "2017",
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Tomorrow Never Came | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Chemtrails over the Country Club",
+    "año": "2021",
+    "rating": 3,
+    "genero": [
+      "👒Country",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Dance Till We Die | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Did You Know That There's a Tunnel Under Ocean Blvd",
+    "año": "2023",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lana Del Rey | Cancion favorita: Margaret | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Dangerously in Love",
+    "año": "2003",
+    "rating": 1,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Beyonce Interlute | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "B'Day",
+    "año": "2006",
+    "rating": 1,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Love Today | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "I Am... Sasha Fierce",
+    "año": "2008",
+    "rating": 2,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Halo | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "4",
+    "año": "2011",
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Love On Top | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Beyoncé",
+    "año": "2013",
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Flawless | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Lemonade",
+    "año": "2016",
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Sandcastles | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Renaissance",
+    "año": "2022",
+    "rating": 5,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Heated | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Taylor Swift",
+    "año": "2006",
+    "rating": 1,
+    "genero": [
+      "👒Country"
+    ],
+    "personaje_favorito": "Taylor Swift",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Picture to Burn | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Fearless",
+    "año": "2008",
+    "rating": 3,
+    "genero": [
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Thats When | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Red",
+    "año": "2012",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: All to well 10in | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Speak Now",
+    "año": "2010",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Never Grow up | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "1989",
+    "año": "2014",
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Suburban Legends | Percepcion objetiva: normal | Colabs: Kendrik Lamar"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Reputation",
+    "año": "2017",
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Getaway Car | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Lover",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: London Boy | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Folklore",
+    "año": "2020",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: This is my Trying | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Midnights",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Snow at the beach Feat More Lana | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Evermore",
+    "año": "2020",
+    "rating": 3,
+    "genero": [
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: hapiness | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Tortured Poets Department",
+    "año": "2024",
+    "rating": 1,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Cancion favorita: Sam | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Life of a Showgirl",
+    "año": "2025",
+    "rating": 1,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Taylor Swift | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Pure Heroine",
+    "año": "2013",
+    "rating": 5,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lorde | Cancion favorita: A World Alone | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Melodrama",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lorde | Cancion favorita: Supercut | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Solar Power",
+    "año": "2021",
+    "rating": 1,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lorde | Cancion favorita: Nail at the stone saloon | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Virgin",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Lorde | Cancion favorita: david | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Stranger in the Alps",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Phoebe Bridgers | Cancion favorita: You missed my heart | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Rise and Fall of a Midwest Princess",
+    "año": "2023",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Chappell Roan | Cancion favorita: Casual | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The End of Everything",
+    "año": "2025",
+    "rating": 5,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Noah Cyrus | Cancion favorita: The end of everything | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Whats Going On?",
+    "año": "1980",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Marvin Gaye | Cancion favorita: Whats Going On? | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "De Todas Las Flores",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "☀️Español",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Natalia Lafourcade | Cancion favorita: cuando la lluvia | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Hasta La Raiz",
+    "año": "2014",
+    "rating": 4,
+    "genero": [
+      "☀️Español",
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Natalia Lafourcade | Cancion favorita: Duele | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Motomami",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "☀️Español",
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: ROSALIA | Cancion favorita: Bizcochito | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Brat",
+    "año": "2024",
+    "rating": 2,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Charlie XCX | Cancion favorita: 360 | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Homogenic",
+    "año": "1989",
+    "rating": 1,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Bjork | Cancion favorita: Pluto | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Dont Smile At Me",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Billie Eilish | Cancion favorita: idontwannabeyouanymore | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "When We All Fall Asleep Where Do We Go",
+    "año": "2020",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Billie Eilish | Cancion favorita: i love you | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Happier Than Ever",
+    "año": "2022",
+    "rating": 1,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Billie Eilish | Cancion favorita: Happier than ever | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Hit Me Hard And Soft",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Billie Eilish | Cancion favorita: Skinny | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "I Cant Let Go",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Suki Waterhouse | Cancion favorita: Bless | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Ants From Upthere",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Black Country, New Road | Cancion favorita: Intro | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Blond",
+    "año": "2014",
+    "rating": 2,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Frank Ocean | Cancion favorita: Futura Free | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Kid A",
+    "año": "2006",
+    "rating": 1,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Radiohead | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "In Rainbows",
+    "año": "2013",
+    "rating": 1,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Radiohead | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Cowboy Carter",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Beyoncé | Cancion favorita: Sweet. honey, Bucking"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Thank You, Next",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ariana Grande | Cancion favorita: Nasa"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Positions",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ariana Grande | Cancion favorita: Drivers License"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Eternal Sunshine",
+    "año": null,
+    "rating": 1,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ariana Grande | Cancion favorita: Intro"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Guts",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Olivia Rodrigo | Cancion favorita: Teenage Dream"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Sour",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Olivia Rodrigo | Cancion favorita: Hope ur ok"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Cry Baby",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Melanie Martinez | Cancion favorita: Soap"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "K-12",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Melanie Martinez | Cancion favorita: Teacher’s Pet | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "After School EP + Unreleased",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Melanie Martinez | Cancion favorita: Garden | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Portals",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Melanie Martinez | Cancion favorita: Spider Web"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Love Deluxe",
+    "año": null,
+    "rating": 1,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Sade | Cancion favorita: Mermaid | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Death of a Party Girl",
+    "año": "2018",
+    "rating": 4,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: TV Girl | Cancion favorita: Blue Hair | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "French Exit",
+    "año": "2014",
+    "rating": 4,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: TV Girl | Cancion favorita: Lovers rock | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Who Really Cares",
+    "año": "2016",
+    "rating": 3,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: TV Girl | Cancion favorita: Taking whats not yours | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Summer’s Over",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: TV Girl | Cancion favorita: The partys not over | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Dejenme Llorar",
+    "año": "2012",
+    "rating": 4,
+    "genero": [
+      "☀️Español",
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Carla Morrison | Cancion favorita: Hasta la piel | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Mientras Tu Dormias",
+    "año": "2010",
+    "rating": 3,
+    "genero": [
+      "☀️Español",
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Carla Morrison | Cancion favorita: Compartir | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Autopoiética",
+    "año": "2023",
+    "rating": 3,
+    "genero": [
+      "☀️Español",
+      "👒Country",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mon Laferte | Cancion favorita: Casta Civa | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Lovers Rock",
+    "año": "2000",
+    "rating": 4,
+    "genero": [
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Sade | Cancion favorita: Its Only Love That Gets You Through it | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "1940 Carmen",
+    "año": "2021",
+    "rating": 5,
+    "genero": [
+      "☀️Español",
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "13 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mon Laferte | Cancion favorita: Hollywood | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "SEIS",
+    "año": "2021",
+    "rating": 2,
+    "genero": [
+      "☀️Español",
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "5 de marzo de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mon Laferte | Cancion favorita: Amado Mio | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Norma",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "☀️Español",
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mon Laferte | Cancion favorita: Funeral | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Hounds Of Love",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de septiembre de 1986",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kate Hush | Cancion favorita: Hello Earth | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Songs In The Key Of Life",
+    "año": "1975",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "17 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Stevie Wonder | Cancion favorita: Joy In My Tears | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "OIL OF EVERY PEAR’S UN-INSIDES",
+    "año": "2018",
+    "rating": 4,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "17 de abril de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: SOPHIE | Cancion favorita: PonyBoy | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "PRODUCT",
+    "año": "2015",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de junio de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: SOPHIE | Cancion favorita: MSMSMSM | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "I Love My Computer",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "18 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ninajirachi | Cancion favorita: Delete | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Lonely Woman",
+    "año": "2013",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "18 de septiembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: TV Girl | Cancion favorita: She Smokes In Bed | Percepcion objetiva: es malo"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "EUSEXA",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "Electronico",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de noviembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: FKA twigs | Cancion favorita: Sushi | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Vespertine",
+    "año": "2001",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "18 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Bjork | Cancion favorita: Unison | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Oh He Oh My",
+    "año": "2023",
+    "rating": 4,
+    "genero": [
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "15 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Llenie Holley | Cancion favorita: None of us have but a little while | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Passionate One",
+    "año": "2025",
+    "rating": 3,
+    "genero": [
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Nourished By Time | Cancion favorita: Jojo | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "To Pimp A Butterfly",
+    "año": "2015",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "9 de octubre de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kendrik Lamar | Cancion favorita: u | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "DAMM",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "20 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kendrik Lamar | Cancion favorita: XXX | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Abbey Road",
+    "año": "1969",
+    "rating": 2,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: The Beattles | Cancion favorita: Someting | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "In The Airplay Over The Sea",
+    "año": "1998",
+    "rating": 2,
+    "genero": [
+      "👒Country",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "20 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Neutral Milk Hotel | Cancion favorita: untilted | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Inmunity",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de mayo de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Clairo | Cancion favorita: I Woudnt Ask You | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Sling",
+    "año": "2021",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "21 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Clairo | Cancion favorita: Pier 4 | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Charm",
+    "año": "2024",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "22 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Clairo | Cancion favorita: Pier 4 | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Sing The Blues",
+    "año": "1967",
+    "rating": null,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Nina Simone | Cancion favorita: Since i fell for you | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "I Put A Spell On You",
+    "año": "1969",
+    "rating": 1,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Nina Simone | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Mr. Morales & The Big Steppers",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "22 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kendrik Lamar | Cancion favorita: The Heart Part 5 | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "GNX",
+    "año": "2024",
+    "rating": 2,
+    "genero": [
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "23 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kendrik Lamar | Cancion favorita: luther (whit sza) | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "good kid m.A.A.d city",
+    "año": "2012",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "23 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kendrik Lamar | Cancion favorita: Money Threes | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Volta",
+    "año": "2007",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "23 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Bjork | Cancion favorita: Innocence | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Utopia",
+    "año": "2017",
+    "rating": 2,
+    "genero": [
+      "Electronico"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Bjork | Cancion favorita: Arisen My Senses | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Melanchole",
+    "año": "2014",
+    "rating": 4,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de octubre de 2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Salvia Palth | Cancion favorita: Dream | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Who Is Jill Scott?",
+    "año": "2000",
+    "rating": 3,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "28 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Jill Scott | Cancion favorita: A Long Walk | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Fossora",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de septiembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Bjork | Cancion favorita: Fossora | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Brown Sugar",
+    "año": "1996",
+    "rating": 4,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de septiembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: D'Angelo | Cancion favorita: Brown Sugar | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "SOS",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "31 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: SZA | Cancion favorita: Good Days | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Promise",
+    "año": "1985",
+    "rating": 3,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "31 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Sade | Cancion favorita: Punch Drunk | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Diamond Life",
+    "año": "1984",
+    "rating": 2,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "3 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Sade | Cancion favorita: Frankie First Affair | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The College Dropout",
+    "año": "2004",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "31 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kanye West | Cancion favorita: We Dont Care | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Late Registration",
+    "año": "2005",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "31 de octubre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kanye West | Cancion favorita: Heard ‘Em Say | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Infamous",
+    "año": "1995",
+    "rating": 3,
+    "genero": [
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de noviembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mobb Deep | Cancion favorita: The Start of Your Ending | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Life Of Palblo",
+    "año": "2016",
+    "rating": 3,
+    "genero": [
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "12 de noviembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kanye West, SZA | Cancion favorita: Real Friends | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "My Beautifull Dark Twisted Fantasy",
+    "año": "2010",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "7 de noviembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kanye West | Cancion favorita: power | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Maggot Brain",
+    "año": "1971",
+    "rating": 4,
+    "genero": [
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "13 de noviembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Funkadelic | Cancion favorita: Can You Get That"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Ctrl",
+    "año": "2017",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "23 de noviembre de 2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: SZA, Kendrik Lamar | Cancion favorita: Broken Clocks | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Horses",
+    "año": "1975",
+    "rating": 1,
+    "genero": [
+      "👒Country",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "6 de noviembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Patti Smith | Cancion favorita: Gloria: In Excelsis Doo | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Ego Death At A Bachelorette Party",
+    "año": "2025",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Hayley Williams | Cancion favorita: Good Old Days | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Apostrophe (')",
+    "año": "1974",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de diciembre de 2025",
+    "url": "https://www.albumoftheyear.org/album/28251-frank-zappa-apostrophe-.php",
+    "notas": null,
+    "detalles_extra": "Artista: Frank Zappa | Cancion favorita: Uncle Remus | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Natural Brown Prom Queen",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Sudan Archives | Cancion favorita: Selfish Soul | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "BB/ANG3L",
+    "año": "2021",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "5 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Tinashe | Cancion favorita: Meeds | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "LP1",
+    "año": "2014",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "4 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: FKA twigs | Cancion favorita: Numbers | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Velvet Rope",
+    "año": "1997",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B",
+      "😵‍💫Alternativo",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Janet Jackon | Cancion favorita: My Need | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Turning Wheel",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "Electronico"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: SPELLING | Cancion favorita: Boys At School | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "ITEKOMA HITS",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Otoboke Beaver | Cancion favorita: datsu . hikage no onna | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Purple Mountains",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "👒Country",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Purple Mountains | Cancion favorita: Thats Just the Way I Feel | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Grace",
+    "año": "1994",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Jeff Buckley | Cancion favorita: Mojo Pin | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "THE BPM",
+    "año": "2025",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "🎷R&B",
+      "😵‍💫Alternativo",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Sudan Archives | Cancion favorita: DEAD | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "swimmin",
+    "año": "2018",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "29 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mac Miller | Cancion favorita: come back to earth | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Haram",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "😵‍💫Alternativo",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Armand hammer | Cancion favorita: Stonefruit | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "UGLY",
+    "año": "2023",
+    "rating": 2,
+    "genero": [
+      "😵‍💫Alternativo",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: slowtai | Cancion favorita: ugly | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "at folson prision",
+    "año": "1969",
+    "rating": 1,
+    "genero": [
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: johny cash | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Ungoldy Hour",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "30 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Clohe x Hallem | Cancion favorita: ungoldly hour | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "An Evening Whit Silk Sonic",
+    "año": "2021",
+    "rating": null,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Bruno Mars | Cancion favorita: Leage The Door Open"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Age/Sex/Location",
+    "año": "2022",
+    "rating": 2,
+    "genero": [
+      "🎷R&B",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de diciembre de 2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Ari Lennox | Cancion favorita: Pleasure | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Freudian",
+    "año": "2019",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Daniel Ceaser | Cancion favorita: Best Part feat Her | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Gutta Child",
+    "año": "2025",
+    "rating": 2,
+    "genero": [
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Gabriel Jacoby | Cancion favorita: be acareful | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "kin",
+    "año": "2012",
+    "rating": 3,
+    "genero": [
+      "Electronico",
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "9 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: iamawhoiama | Cancion favorita: sever"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Yes Lawd!",
+    "año": "2016",
+    "rating": 2,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: NxWorries | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Pure Comedy",
+    "año": "2018",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Father John Mitsy | Cancion favorita: Ballad of a dying man | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The New Sound",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "🎷R&B",
+      "👒Country",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "1 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Georgie Deep | Cancion favorita: The Magician | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Things Falling Appart",
+    "año": "1999",
+    "rating": 3,
+    "genero": [
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: The Roots | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Primal Heart",
+    "año": "2018",
+    "rating": 4,
+    "genero": [
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kimbra | Cancion favorita: Past Love | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Whats Your Pleasure",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "Electronico",
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Jessie Ware | Cancion favorita: Spotlight | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Boarding Rich School",
+    "año": "2018",
+    "rating": 2,
+    "genero": [
+      "Rock",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Jack White | Cancion favorita: Conected by love | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+    "año": "1972",
+    "rating": 4,
+    "genero": [
+      "Rock",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "17 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: David Bowie | Cancion favorita: Ziggy Stardust | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Cant Lose my (Soul)",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Annie And The Catwells | Cancion favorita: Cant lose my soul | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Memmoir Of A SparkleMuffin",
+    "año": "2024",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "5 de septiembre de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Suki Waterhouse | Cancion favorita: Model Actress Whatever | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "COIN COIN chapter four memphis",
+    "año": "2019",
+    "rating": 1,
+    "genero": [
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "2 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Mataba Roberts | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Control",
+    "año": "1986",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Janet Jackon | Cancion favorita: He dosent know im alive | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "janet",
+    "año": "1993",
+    "rating": 4,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Janet Jackon | Cancion favorita: thats the way that love goes | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The velvet underground & nico",
+    "año": "1969",
+    "rating": 4,
+    "genero": [
+      "Rock",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: the velvet underground | Cancion favorita: Heroin | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "ego death",
+    "año": "2016",
+    "rating": 3,
+    "genero": [
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: the internet | Cancion favorita: Just sayin, i tried | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "the velvet underground",
+    "año": "1985",
+    "rating": 2,
+    "genero": [
+      "Rock",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: the velvet underground | Cancion favorita: pale blue eyes | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Extension of a man",
+    "año": "1977",
+    "rating": 5,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Donny Hathway | Cancion favorita: Love, Love, Love | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "peace beyond pasion",
+    "año": "1996",
+    "rating": 2,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de febrero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Meshel Ndegocello | Cancion favorita: The Way"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Negro Swan",
+    "año": "2018",
+    "rating": 4,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "12 de febrero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Blood Orange | Cancion favorita: Charcoal bahy"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Blush",
+    "año": "2025",
+    "rating": 5,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de febrero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Kevin Abstract | Cancion favorita: Maroon | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "No one really dies",
+    "año": "2017",
+    "rating": 4,
+    "genero": [
+      "Electronico",
+      "🙎🏾Rap"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "19 de febrero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: N.E.R.D | Cancion favorita: Deep Down Body Thrust | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Wallsocket",
+    "año": "2023",
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "25 de febrero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: underscorea | Percepcion objetiva: normal"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Fetch de Bolt Cuttera",
+    "año": "2020",
+    "rating": 3,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "26 de febrero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Fiona apple | Cancion favorita: Ladiea | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "When The Pawn",
+    "año": "1999",
+    "rating": 3,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14 de marzo de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Fiona apple | Cancion favorita: As Fast As You Can | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "tidal",
+    "año": "1996",
+    "rating": 2,
+    "genero": [
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "13 de junio de 2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Fiona apple | Cancion favorita: criminal | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Serotonin II",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Electronico",
+      "😵‍💫Alternativo",
+      "🩶Folk"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de marzo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: yeule | Cancion favorita: Pixel Affection"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "The Gold Experience",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "12 de marzo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: PRINCE | Cancion favorita: Shh | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Purple Rain",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "Rock",
+      "😵‍💫Alternativo"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14 de enero de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: PRINCE | Cancion favorita: Purple Rain | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Grove Theory",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "12 de marzo de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Groove Theory | Cancion favorita: Tell Me | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Home",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "👒Country"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Billy String | Cancion favorita: Must Be Seven | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Curtis",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "🎤Pop",
+      "🎷R&B"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Curtis Mayfield | Percepcion objetiva: super aclamados"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Halo",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Electronico",
+      "🎤Pop"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "8 de abril de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Artista: Tiffany Day | Cancion favorita: tell me what i did | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Album",
+    "titulo": "Dormitoroo",
+    "año": null,
+    "rating": 4,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "28 de abril de 2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Cancion favorita: Arisound | Percepcion objetiva: bueno"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "The Mandalorian",
+    "año": "2019",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 24 | Rango: S1E1 - S3E8"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "The Dragon Prince",
+    "año": "2018",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: 3D, Anime | Episodios vistos: 63 | Rango: S1E1 - S7E9"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Helluva Boss",
+    "año": "2020",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Dibujo | Episodios vistos: 20 | Rango: S1E1 - S2E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "WandaVision",
+    "año": "2021",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 9 | Rango: S1E1 - S1E9"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "BoJack Horseman",
+    "año": "2014",
+    "rating": 5,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Dibujo | Episodios vistos: 76 | Rango: S1E1 - S6E16"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Severance",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real | Episodios vistos: 19 | Rango: S1E1 - S2E10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Wednesday",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 12 | Rango: S1E1 - S2E4"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "The Queen's Gambit",
+    "año": "2020",
+    "rating": 4,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "01/10/2021 → 18/10/2021",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 7 | Rango: S1E1 - S1E7"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "The Umbrella Academy",
+    "año": "2019",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 36 | Rango: S1E1 - S4E6"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Rick and Morty",
+    "año": "2013",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Comedia"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Dibujo | Episodios vistos: 81 | Rango: S1E1 - S8E10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Carmen Sandiego",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Dibujo | Episodios vistos: 32 | Rango: S1E1 - S4E8"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Stranger Things",
+    "año": "2016",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 34 | Rango: S1E1 - S4E9"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Over the Garden Wall",
+    "año": "2014",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Dibujo | Episodios vistos: 10 | Rango: S1E1 - S1E10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Attack on Titan",
+    "año": "2013",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 87 | Rango: S1E1 - S4E28"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Steven Universe",
+    "año": "2013",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Dibujo | Episodios vistos: 154 | Rango: S1E1 - S5E28"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Mob Psycho 100",
+    "año": "2016",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 37 | Rango: S1E1 - S3E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "One-Punch Man",
+    "año": "2015",
+    "rating": 2,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 24 | Rango: S1E1 - S2E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Gravity Falls",
+    "año": "2012",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Dibujo | Episodios vistos: 40 | Rango: S1E1 - S2E20"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Hilda",
+    "año": "2018",
+    "rating": 5,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Dibujo | Episodios vistos: 34 | Rango: S1E1 - S3E8"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "The Legend of Korra",
+    "año": "2012",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime, Dibujo | Episodios vistos: 52 | Rango: S1E1 - S4E13"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Cyberpunk: Edgerunners",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 10 | Rango: S1E1 - S1E10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Vinland Saga",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 48 | Rango: S1E1 - S2E24"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Love, Death & Robots",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: 3D, Anime, Dibujo, Vida real | Episodios vistos: 45 | Rango: S1E1 - S4E10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Puella Magi Madoka Magica",
+    "año": "2011",
+    "rating": 3,
+    "genero": [
+      "Comedia",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime | Episodios vistos: 12 | Rango: S1E1 - S1E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Miraculous: Tales of Ladybug & Cat Noir",
+    "año": "2015",
+    "rating": 5,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Ladybug/Marinette",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: 3D | Episodios vistos: 137 | Rango: S1E1 - S6E8"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Kaiji",
+    "año": "2007",
+    "rating": 4,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime | Episodios vistos: 52 | Rango: S1E1 - S2E26"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Violet Evergarden",
+    "año": "2018",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime | Episodios vistos: 13 | Rango: S1E1 - S1E13"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Jujutsu Kaisen",
+    "año": "2020",
+    "rating": 2,
+    "genero": [
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 47 | Rango: S1E1 - S1E47"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Squid Game",
+    "año": "2021",
+    "rating": 3,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Vida real | Episodios vistos: 22 | Rango: S1E1 - S3E6"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Breaking Bad",
+    "año": "2008",
+    "rating": 3,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real | Episodios vistos: 62 | Rango: S1E1 - S5E16"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "ONE PIECE",
+    "año": "2023",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Comedia",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Chopper, Nico Robin, Law",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 1147 | Rango: S1E1 - S1E8"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "KAKEGURUI TWIN",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime | Episodios vistos: 6 | Rango: S1E1 - S1E6"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Kakegurui",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 24 | Rango: S1E1 - S2E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Made in Abyss",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Terror"
+    ],
+    "personaje_favorito": "Riko y Ren",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime | Episodios vistos: 25 | Rango: S1E1 - S2E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Elfen Lied",
+    "año": "2004",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime | Episodios vistos: 13 | Rango: S1E1 - S1E13"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Persona 4 The Golden Animation",
+    "año": "2014",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Kanji, Chie",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime | Episodios vistos: 12 | Rango: S1E1 - S1E12"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Neon Genesis Evangelion",
+    "año": "1995",
+    "rating": 5,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 26 | Rango: S1E1 - S1E26"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Persona 4: The Animation",
+    "año": "2011",
+    "rating": 5,
+    "genero": [
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Kanji, Chie",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime | Episodios vistos: 25 | Rango: S1E1 - S1E25"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "NieR:Automata Ver1.1a",
+    "año": "2023",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime | Episodios vistos: 24 | Rango: S1E1 - S1E24"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Demon Slayer: Kimetsu no Yaiba",
+    "año": "2019",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 63 | Rango: S1E1 - S5E8"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Berserk 1990",
+    "año": "1997",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime | Episodios vistos: 25 | Rango: S1E1 - S1E25"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "año": "2009",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 64 | Rango: S1E1 - S1E64"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Fullmetal Alchemist",
+    "año": "2003",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 51 | Rango: S1E1 - S1E51"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Avatar: The Last Airbender",
+    "año": "2005",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime, Dibujo | Episodios vistos: 61 | Rango: S1E1 - S3E21"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "JoJo's Bizarre Adventure",
+    "año": "2012",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 190 | Rango: S1E1 - S5E38"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Arcane",
+    "año": "2021",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: 3D | Episodios vistos: 18 | Rango: S1E1 - S2E9"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Spiderman in to the Spiderverse",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: 3D, Dibujo"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Spiderman Across the Spiderverse",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16/03/2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: 3D, Dibujo"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Berserk Manga",
+    "año": "1989",
+    "rating": 5,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Manga/Libro | Episodios vistos: 376 | Rango: 376"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Rebuild Of Evangelion: 1.11",
+    "año": null,
+    "rating": 2,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Rebuild Of Evangelion: 2.22",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Rebuild Of Evangelion: 3.33",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "01/12/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Rebuild Of Evangelion: 3.33 + 1.11",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "01/10/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Frieren",
+    "año": "2020",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 30 | Rango: S1-S1E30"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Dan da Dan",
+    "año": "2024",
+    "rating": 2,
+    "genero": [
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 10 | Rango: 10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Land of the Loustrus",
+    "año": "2017",
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: 3D, Anime | Episodios vistos: 10 | Rango: S1E1-S1E10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Komi San Cant comunicate",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "Comedia",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 12 | Rango: S1E1-S1E12"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Puella Magi Madoka Magica:Rebelion",
+    "año": "2016",
+    "rating": 5,
+    "genero": [
+      "Super Heroes",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "16/05/2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "ONE PIECE: Film Z",
+    "año": "2016",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": "Chopper, Nico Robin, Law",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime | Episodios vistos: 1 | Rango: 1"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Hilda",
+    "año": "2018",
+    "rating": 5,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Dibujo | Episodios vistos: 30 | Rango: S1E1-S3E10"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Hilda: Y el rey de la montaña",
+    "año": "2021",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "01/01/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Dibujo"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "The End of Evangelion",
+    "año": "1998",
+    "rating": 5,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "07/07/2021",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Evangelion: Death (true)2",
+    "año": "1998",
+    "rating": 2,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Hunter x Hunter",
+    "año": "2011",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Ren y Killua",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 139 | Rango: S1E1-S6E139"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Miraculous: La pelicula",
+    "año": "2021",
+    "rating": 3,
+    "genero": [
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Ladybug/Marinette",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: 3D"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Bayonetta Bloody Fate",
+    "año": "2010",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": "Bayonetta",
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobreodiado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "JoJo's Bizarre Adventure: Steel Ball Run",
+    "año": "2010",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime, Manga/Libro | Episodios vistos: 97 | Rango: 97"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Call me by your name",
+    "año": "2017",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real | Episodios vistos: 1 | Rango: 1"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Misterius Skin",
+    "año": "2000",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Terror",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "I think our son may be death",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "Comedia",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Manga/Libro | Episodios vistos: 97 | Rango: 101"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "ONE PIECE: Fan letter",
+    "año": "2024",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Comedia",
+      "Drama"
+    ],
+    "personaje_favorito": "Chopper, Nico Robin, Law",
+    "fecha_consumido": "03/09/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Dibujo | Episodios vistos: 1 | Rango: 1"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Death Note",
+    "año": "216",
+    "rating": 4,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 25 | Rango: S1E1-S1E25"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Devilman Crybaby",
+    "año": "2016",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Terror",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "13/09/2023 → 15/09/2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 10 | Rango: 10"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Cyverpunk Edgerunners",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11/12/2022 → 12/12/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 10 | Rango: 10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "kakegurui manga",
+    "año": "2016",
+    "rating": 5,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Manga/Libro | Episodios vistos: 80 | Rango: 110"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Monster",
+    "año": "1995",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Anime | Episodios vistos: 70 | Rango: 70"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "The Bad Guys 2",
+    "año": "2024",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Comedia",
+      "Drama",
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Taylor Swift",
+    "fecha_consumido": "08/10/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: 3D, Dibujo | Episodios vistos: 1 | Rango: 1"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "El samurai de ojos azules",
+    "año": "2023",
+    "rating": 5,
+    "genero": [
+      "Drama",
+      "Super Heroes",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14/10/2023 → 16/10/2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: 3D, Anime, Dibujo | Episodios vistos: 10 | Rango: 10"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Heartstopper",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "Comedia",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "08/09/2023 → 11/09/2023",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real | Episodios vistos: 10 | Rango: 20"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Stardew valley: Through The Worst Of Wintwr",
+    "año": "2020",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Romance"
+    ],
+    "personaje_favorito": "Harvey, Shane",
+    "fecha_consumido": "10/11/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Manga/Libro | Episodios vistos: 1 | Rango: 41"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "MiraculousPeterParker: Miraculous Rewritten",
+    "año": "2020",
+    "rating": 3,
+    "genero": [
+      "Comedia",
+      "Drama",
+      "Romance",
+      "Super Heroes"
+    ],
+    "personaje_favorito": "Ladybug/Marinette",
+    "fecha_consumido": "11/11/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Manga/Libro | Episodios vistos: 30 | Rango: 30"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "El Principito",
+    "año": "1989",
+    "rating": 2,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Romance",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "09/01/2020",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Manga/Libro | Episodios vistos: 10"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Persona 4: ND Aspernor",
+    "año": "2020",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Romance",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11/11/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Manga/Libro | Episodios vistos: 31 | Rango: 01"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Persona 5: Facing a New Morning",
+    "año": "2022",
+    "rating": 2,
+    "genero": [
+      "Drama",
+      "Romance",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "15/11/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Manga/Libro | Episodios vistos: 12 | Rango: 12"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "El verano que hiraki murio",
+    "año": "2024",
+    "rating": 5,
+    "genero": [
+      "Drama",
+      "Romance",
+      "Terror",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "08/12/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 12 | Rango: 12"
+  },
+  {
+    "tipo": "Peli/Serie",
+    "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "año": null,
+    "rating": null,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": "https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/",
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Chainsaw Man",
+    "año": "2022",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Romance",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "07/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 12 | Rango: 12"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Chainsaw Man Huzen",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Romance",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "07/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Demon Slayer: Infinity Castle",
+    "año": "2025",
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime | Episodios vistos: 1 | Rango: S1E1 - S5E8"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Heated Ricaldey",
+    "año": "2025",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "17/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real | Episodios vistos: 6 | Rango: 6"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Tuerra de Dios",
+    "año": "2017",
+    "rating": 3,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": "la vi porque pense q era otra pelicula esta es la de el perro q se sacrifica por la familia",
+    "detalles_extra": "Estilo visual: Vida real | Episodios vistos: 1 | Rango: 1"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Maurice",
+    "año": "2089",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "20/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real | Episodios vistos: 1 | Rango: 1"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Orb: on the movement of the earth",
+    "año": "2034",
+    "rating": 5,
+    "genero": [
+      "Drama",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "24/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime | Episodios vistos: 24 | Rango: 24"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Holding the man",
+    "año": "1997",
+    "rating": 2,
+    "genero": [
+      "Romance",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "24/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Beautiful Thing",
+    "año": "1987",
+    "rating": 4,
+    "genero": [
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "29/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Pulp Fiction",
+    "año": "1989",
+    "rating": 4,
+    "genero": [
+      "Comedia",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "15/10/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "shelter",
+    "año": "1997",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": "queria ver otra peli y termine viendo esta porque tiene el mismo nombre",
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "weekend",
+    "año": "2011",
+    "rating": 4,
+    "genero": [
+      "Romance",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "31/01/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "La Casa",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10/11/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Stop Motion"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "La Casa De Papel",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10/06/2021",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "El Juego Del Calamar",
+    "año": "2021",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "13/01/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Estamos Muertos",
+    "año": "2022",
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Terror"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14/05/2022",
+    "url": null,
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Kpop Demonhubters",
+    "año": "2021",
+    "rating": 2,
+    "genero": [
+      "Comedia",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "06/08/2025",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: 3D, Anime"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Merlina",
+    "año": "2022",
+    "rating": 2,
+    "genero": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "11/01/2024",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: sobrevalorado | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "The way he looks",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "02/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Zootopia 2",
+    "año": "2025",
+    "rating": 3,
+    "genero": [
+      "Aventura"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "09/10/2025",
+    "url": null,
+    "notas": "la vi en clase",
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: 3D"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "The summer of 85",
+    "año": null,
+    "rating": 3,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "02/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "A Single Man",
+    "año": "2011",
+    "rating": 2,
+    "genero": [
+      "Romance",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "02/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "shelter 🌊",
+    "año": "2011",
+    "rating": 5,
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "03/02/2026",
+    "url": null,
+    "notas": "",
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Hajime No Hippo",
+    "año": "1989",
+    "rating": 4,
+    "genero": [
+      "Comedia",
+      "Deporte",
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: bien valorado | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "La cumbre de los dioses",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "Drama"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "14/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: 3D, Anime, Dibujo"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "About time",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "Comedia",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "17/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": null
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Esta bien no estar bien",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "27/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "L,Homme Que J’aime",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "27/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "before we forget",
+    "año": "2024",
+    "rating": 4,
+    "genero": [
+      "Drama",
+      "Romance",
+      "Triste"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "27/02/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Vida real"
+  },
+  {
+    "tipo": "Peli",
+    "titulo": "Dooukyusei",
+    "año": "2016",
+    "rating": 5,
+    "genero": [],
+    "personaje_favorito": null,
+    "fecha_consumido": "19/03/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Percepcion: infravalorao | Estilo visual: Anime"
+  },
+  {
+    "tipo": "Mini-Serie",
+    "titulo": "Scott Pilgrim: Takes Off",
+    "año": null,
+    "rating": 3,
+    "genero": [
+      "Aventura",
+      "Comedia",
+      "Super Heroes"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": "10/04/2026",
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Estilo visual: Dibujo"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Kingdom Hearts III",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Kingdom Hearts"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Kingdom Hearts Re:Chain of Memories",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Kingdom Hearts"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Kingdom Hearts 358/2 Days",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": "Solo vi las cinemáticas",
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Kingdom Hearts"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Kingdom Hearts Birth by Sleep",
+    "año": null,
+    "rating": 4,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase | Serie: Kingdom Hearts"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Digital Devil Saga",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows), Sony PlayStation 2 | Estado: Me lo Pase | Serie: Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Digital Devil Saga 2",
+    "año": null,
+    "rating": 5,
+    "genero": [
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows), Sony PlayStation 2 | Estado: Me lo Pase | Serie: Shin Megami Tensei"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Horizon Zero Dawn",
+    "año": "2017",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase"
+  },
+  {
+    "tipo": "Juego",
+    "titulo": "Horizon Forbidden West",
+    "año": "2022",
+    "rating": 5,
+    "genero": [
+      "Aventura",
+      "Role-playing (RPG)"
+    ],
+    "personaje_favorito": null,
+    "fecha_consumido": null,
+    "url": null,
+    "notas": null,
+    "detalles_extra": "Plataforma: PC (Windows) | Estado: Me lo Pase"
+  }
+]
