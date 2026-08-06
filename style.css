@@ -163,9 +163,80 @@ body {
   font-size: 0.85rem;
 }
 
-/*
-main {
-  display: flex;
-  gap: 20px;
+/* Discord Hacker Card Button */
+.discord-card {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  border: 3px solid var(--verde-oscuro);
+  border-radius: 15px;
+  padding: 12px 20px;
+  margin: 15px 0 20px 0;
+  background-color: rgba(57, 255, 20, 0.05);
+  color: var(--verde-fuerte);
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: 0 0 5px rgba(57, 255, 20, 0.1);
+  font-family: "Press Start 2P", monospace;
 }
-*/
+
+.discord-card:hover {
+  border-color: var(--verde-fuerte);
+  background-color: rgba(57, 255, 20, 0.12);
+  box-shadow: 0 0 15px rgba(57, 255, 20, 0.4), inset 0 0 10px rgba(57, 255, 20, 0.1);
+  transform: translateY(-3px);
+}
+
+.discord-card:active {
+  transform: translateY(-1px);
+}
+
+.discord-icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  color: var(--verde-fuerte);
+  filter: drop-shadow(0 0 5px var(--verde-fuerte));
+}
+
+.discord-svg {
+  width: 28px;
+  height: 28px;
+}
+
+.discord-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.discord-label {
+  font-size: 10px;
+  color: var(--verde-suave);
+  letter-spacing: 1px;
+}
+
+.discord-user {
+  font-size: 13px;
+  color: var(--verde-fuerte);
+  text-shadow: 0 0 8px var(--verde-fuerte);
+}
+
+.discord-status {
+  font-size: 10px;
+  color: var(--color-texto);
+  border: 1px dashed var(--verde-oscuro);
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin-left: 8px;
+  transition: all 0.2s ease;
+}
+
+.discord-card:hover .discord-status {
+  border-color: var(--verde-fuerte);
+  color: var(--verde-fuerte);
+  text-shadow: 0 0 5px var(--verde-fuerte);
+}
