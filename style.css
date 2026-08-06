@@ -114,6 +114,10 @@ body {
     );
 }
 
+.verde-suave {
+  color: var(--verde-suave)
+}
+
 .titulo-sitio {
   font-size: 70px;
   text-shadow:
